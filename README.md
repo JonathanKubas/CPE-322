@@ -1,2 +1,2 @@
 # CPE-322
-For 
+For class notes, coding assignments, and group projects
