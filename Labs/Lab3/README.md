@@ -1,6 +1,8 @@
 # Lab 3
+```
 Pledge: "I pledge my honor that I hae abided by the Stevens Honor System"
 Signed: Jonathan Kubas
+```
 
 ## Julian Script
 ![Julian Script](https://github.com/JonathanKubas/CPE-322/blob/main/Labs/Lab3/Python_Output_Captures/Julian%20Script.PNG?raw=true)
@@ -24,7 +26,7 @@ Signed: Jonathan Kubas
 ![Morse Code Script](https://github.com/JonathanKubas/CPE-322/blob/main/Labs/Lab3/Python_Output_Captures/Morse_Code_Script.PNG?raw=true)
 
 ## Coordinates Script
-![Coordinates Script]()
+![Coordinates Script](https://github.com/JonathanKubas/CPE-322/blob/main/Labs/Lab3/Python_Output_Captures/Coordinates_Script.PNG?raw=true)
 
 ## Address Script
 ![Adress Script](https://github.com/JonathanKubas/CPE-322/blob/main/Labs/Lab3/Python_Output_Captures/Address_Script.PNG?raw=true)
