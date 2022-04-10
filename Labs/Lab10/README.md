@@ -1,4 +1,4 @@
-# Lab 7: Cloud Platforms
+# Lab 10: Blockchain
 ```
 Pledge: "I pledge my honor that I hae abided by the Stevens Honor System"
 Signed: Jonathan Kubas
